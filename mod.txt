@@ -16,7 +16,7 @@
 		{
 			"identifier" : "wolfhud",
 			"host" : {
-				"meta" : "https://github.com/Kamikaze94/WolfHUD/raw/autoupdate/meta.json"
+				"meta" : "https://github.com/randomic/WolfHUD/raw/autoupdate/meta.json"
 			}
 		},
 		{
