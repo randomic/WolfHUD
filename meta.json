@@ -1,9 +1,9 @@
 [
     {
         "ident": "wolfhud",
-        "hash": "63d1aa419b042026f8722e4783572bda23592de24dceabb8211720e6134c67d1",
-        "download_url": "https://github.com/Kamikaze94/WolfHUD/archive/master.zip",
-        "patchnotes_url": "https://github.com/Kamikaze94/WolfHUD/releases/latest"
+        "hash": "e256b1c6539d5e6414f62550e47a7f1a9765de9ada982e4af67da108e030fd32",
+        "download_url": "https://github.com/randomic/WolfHUD/archive/master.zip",
+        "patchnotes_url": "https://github.com/randomic/WolfHUD/releases/latest"
     },
     {
         "ident": "fed_inv",
