@@ -28,5 +28,16 @@
 			"install_folder" : "Federal Inventory",
 			"display_name" : "Federal Inventory"
 		}
+	],
+	"keybinds" : [
+		{
+            "keybind_id": "Overdrill",
+            "name": "Overdrill",
+            "description": "Allows the Overdrill to be placed",
+            "script_path": "lua/Overdrill.lua",
+            "run_in_menu": false,
+            "run_in_game": true,
+            "localized": false
+		}
 	]
 }
