@@ -1,8 +1,8 @@
 [
     {
         "ident": "wolfhud",
-        "hash": "9c75f56632af927ed2e5321144d0afd2e293ab4671bdc3dfd3919c12f2ad1fdf",
-        "download_url": "https://github.com/randomic/WolfHUD/archive/master.zip",
+        "hash": "9cc8879abf2771ab5c9cdfae18121b0809d67236b445c003594f74aec103874a",
+        "download_url": "https://github.com/randomic/WolfHUD/archive/refs/heads/master.zip",
         "patchnotes_url": "https://github.com/randomic/WolfHUD/releases/latest"
     },
     {
