@@ -40,7 +40,7 @@ end
 function ContractBrokerHeistItem:get_job_heat_text(job_id)
 	local heat_text       = ""
 	local heat_color      = Color(1,0,1)
-	local exp_multiplier  = managers.job:heat_to_experience_multiplier(managers.job:get_job_heat(job_id))
+	local exp_multiplier  = managers.job:heat_to_experience_multiplier(managers.job:get_job_heat(job_id) or 0)
 	local exp_percent     = ((1 - exp_multiplier)*-1)*100
 
 	if exp_percent ~= 0 then
